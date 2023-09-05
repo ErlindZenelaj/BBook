@@ -1,26 +1,27 @@
-﻿<Properties StartupConfiguration="{3861D03A-C672-4788-B141-7E53101A4BE9}|Default">
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/ApplicationDbContext.cs">
+﻿<Properties StartupConfiguration="{D49B7969-FD08-45B1-AB31-07D4C4654F76}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../FinancialApp/FinancialApp/Migrations/ApplicationDbMigrations/20230202182729_InitialCreate.cs">
     <Files>
+      <File FileName="Migrations/20230831152422_initial.cs" Line="27" Column="40" />
       <File FileName="Program.cs" Line="13" Column="1" />
-      <File FileName="Models/Category.cs" Line="13" Column="35" />
-      <File FileName="appsettings.json" Line="10" Column="23" />
-      <File FileName="Data/ApplicationDbContext.cs" Line="9" Column="1" />
+      <File FileName="appsettings.json" Line="11" Column="1" />
+      <File FileName="../../FinancialApp/FinancialApp/appsettings.json" Line="16" Column="1" />
+      <File FileName="../../FinancialApp/FinancialApp/Migrations/20221215120045_InitApplicationUser.cs" Line="1" Column="1" />
+      <File FileName="../../FinancialApp/FinancialApp/Areas/Identity/Data/ApplicationUser.cs" Line="1" Column="1" />
+      <File FileName="../../FinancialApp/FinancialApp/Migrations/ApplicationDbMigrations/20230202182729_InitialCreate.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BulkyBook">
-            <Node name="BulkyBookWeb">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Data" expanded="True">
-                <Node name="ApplicationDbContext.cs" selected="True" />
+          <Node name="BulkyBook" expanded="True" selected="True">
+            <Node name="FinancialApp">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Data" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Core" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="ApplicationDbMigrations" expanded="True" />
               </Node>
               <Node name="Models" expanded="True" />
             </Node>
@@ -29,4 +30,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FinancialApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

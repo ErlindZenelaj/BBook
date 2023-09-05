@@ -15,6 +15,8 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        // lindi.database.windows.net
+        // Lenti2002
         return View();
     }
 

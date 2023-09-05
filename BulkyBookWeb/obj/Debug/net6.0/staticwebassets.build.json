@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7wfahQTcwRzwOzV7Kqiz/8dGlvlD4MhywUyr2otOzuY=",
+  "Hash": "qiASuYIApzHog4du0nXGGKobHldXcQyd/+bT5FJUUus=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/erlindzenelaj/Documents/GitHub/BBook/BulkyBookWeb/obj/Debug/net6.0/scopedcss/projectbundle/BulkyBookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/erlindzenelaj/Documents/GitHub/BBook/BulkyBookWeb/wwwroot/css/bootswatchTheme.css",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/erlindzenelaj/Documents/GitHub/BBook/BulkyBookWeb/wwwroot/",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootswatchTheme.css"
     },
     {
       "Identity": "/Users/erlindzenelaj/Documents/GitHub/BBook/BulkyBookWeb/wwwroot/css/site.css",
